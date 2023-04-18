@@ -30,11 +30,11 @@ Some screenshot list in gallery, enjoy~
 
 It also produced a series of video works, next, let's list the inventory.
 
-- Done in 2022/01: https://www.bilibili.com/video/BV1HA411C7DG
+- Done in 2022/01: https://www.bilibili.com/video/BV1HA411C7DG or https://youtu.be/8xkQ8aj9syg
 
 ![202301293](./assets/202301293.png)
 
-- Done in 2021/12: https://www.bilibili.com/video/BV1FL4y147DN
+- Done in 2021/12: https://www.bilibili.com/video/BV1FL4y147DN or https://youtu.be/ciw8UOmaFaI
 
 ![vkEngine](./assets/mikuwe.png)
 
