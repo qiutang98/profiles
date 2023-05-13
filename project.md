@@ -22,7 +22,7 @@ Some screenshot list in gallery, enjoy~
 
 ![Snipaste_2023-02-06_10-39-57](./assets/Snipaste_2023-02-06_10-39-57.png)
 
-![Snipaste_2022-12-20_00-58-17](./assets/Snipaste_2022-12-20_00-58-17.png)
+![20230507224325](./assets/20230507224325.png)
 
 ![202212311](./assets/202212311.png)
 
